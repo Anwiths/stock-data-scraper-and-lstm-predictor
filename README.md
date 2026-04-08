@@ -1,2 +1,2 @@
 # stock-data-scraper-and-lstm-predictor
-Stock data scraper + LSTM price prediction + Telegram bot for real-time analysis.
+Built an end-to-end stock market analysis pipeline combining web scraping, LSTM-based price prediction, risk evaluation, and automated insights delivery through a Telegram bot.
